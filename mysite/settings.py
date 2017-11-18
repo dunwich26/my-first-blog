@@ -25,7 +25,7 @@ SECRET_KEY = 'a^5m&4rf=_p#=d#=cw5eid_qc)_kre@lcim#_ufkba$^aktnwg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<vindur>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vindur.pythonanywhere.com']
 
 
 # Application definition
